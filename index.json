@@ -1,0 +1,11 @@
+{
+  "org": "geopandas",
+  "repo": "dask-geopandas",
+  "versions": [
+    {
+      "commit": "3e2143495a83e4cf5073d0436b10906ddbe5fcff",
+      "tag": "",
+      "parsed_at": "2026-10-15T21:19:22.374591+00:00"
+    }
+  ]
+}
